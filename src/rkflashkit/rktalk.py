@@ -26,6 +26,7 @@ RK_PRODUCT_IDS = set([
   0x310c, # RK3128
   0x320a, # RK3288
   0x320b, # RK3229
+  0x320c, # RK3328
   0x330c, # RK3399
 ])
 
